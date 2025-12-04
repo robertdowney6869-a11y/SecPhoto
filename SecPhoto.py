@@ -1,7 +1,7 @@
 # t.me/Mr3rf1
 
-api_id = 30xxxxx98  # set your own api_id
-api_hash = "a650667058bxxxxxddefb73a5de1f5c2fc8"  # set your own api_key
+api_id = 30286798  # set your own api_id
+api_hash = "a650667058b82efefb73a5de1f5c2fc8"  # set your own api_key
 
 async def main():
     try:
